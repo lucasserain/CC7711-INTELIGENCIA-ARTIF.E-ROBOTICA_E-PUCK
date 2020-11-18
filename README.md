@@ -3,6 +3,7 @@
 ## Projeto para a discicplina de Inteligencia Artitficial
 
 ## Fluxograma
+
  ``` mermaid
 graph TD
     A[Inicio] --> B[Declara variaveis];
